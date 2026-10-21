@@ -51,7 +51,7 @@ It breaks that into seven specific questions:
 
 ## Data
 
-- **Source:** Superstore sales dataset (`train.csv`) [add source link]
+- **Source:** Superstore sales dataset (`train.csv`)
 - **Size:** 9,800 order lines, cleaned to 9,799 rows covering 4,922 orders and 793 customers
 - **Period:** 3 January 2015 to 30 December 2018
 
