@@ -5,6 +5,17 @@ Superstore Sales Dataset
 
 An interactive Excel dashboard and written report that analyse four years of retail order data to show where sales come from, what is driving growth, and where the business should focus next.
 
+# Screenshots of Superstore Sales Dashboard (2015–2018)
+
+<img width="1366" height="768" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/c63e9aa2-0ade-474d-960b-8c8f253ef1af" />
+
+<img width="1366" height="768" alt="Screenshot (47)" src="https://github.com/user-attachments/assets/8fd3191c-8ab9-4098-855f-eb16cd9bcd88" />
+
+<img width="1366" height="768" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/dd105edb-540e-4f82-b9d1-a6b8575642b0" />
+
+<img width="1366" height="768" alt="Screenshot (49)" src="https://github.com/user-attachments/assets/ecfe1cb1-dca8-4290-a938-eab3759ffa00" />
+
+
 ## 1. The Business Problem
 
 Superstore sells furniture, office supplies and technology across the United States. Leadership needs to understand its sales performance, but the raw data is 9,800 order lines that are hard to read at a glance.
